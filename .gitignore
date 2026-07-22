@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.out
+bin.v2/
+build/
+
+# Database (contains local/test account data)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+*.vs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

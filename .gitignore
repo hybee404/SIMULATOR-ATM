@@ -8,15 +8,6 @@ build/
 
 # Database (contains local/test account data)
 *.db
-*.sqlite3.h
-*.shell.c
-*.sqlite3.c
-
-# IDE
-.vscode/
-*.vs/
-
-# OS junk
-.DS_Store
-Thumbs.db
-desktop.ini
+sqlite3.h
+shell.c
+sqlite3.c

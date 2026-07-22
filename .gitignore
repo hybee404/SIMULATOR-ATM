@@ -8,8 +8,9 @@ build/
 
 # Database (contains local/test account data)
 *.db
-*.sqlite
-*.sqlite3
+*.sqlite3.h
+*.shell.c
+*.sqlite3.c
 
 # IDE
 .vscode/
